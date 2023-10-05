@@ -5,8 +5,8 @@ from time import sleep
 red = LED(17)
 
 while True:
-    print("Hola clase! sin errores");
+    print("Hola soy Andres")
     red.on()
-    sleep(1)
+    sleep(4)
     red.off()
-    sleep(1)
+    sleep(4)
